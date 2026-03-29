@@ -1,0 +1,19 @@
+p{
+  color:orange;
+  font-size: 12px;
+}
+.TheAK{
+  color:green;
+}
+.box{
+  width: 252px;
+  background-color: grey;
+  border: 2px solid black;
+}
+.table{
+  background-color: grey;
+  border: 1.5px solid black;
+}
+body{
+  background-image:url(/ak47.webp);
+}

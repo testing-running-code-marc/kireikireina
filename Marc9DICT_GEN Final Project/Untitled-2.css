@@ -1,0 +1,35 @@
+body{
+        background-image: url(/jerman.png);
+        background-size: cover;
+        aspect-ratio: 290 x 174;
+        border: 2px;
+      }
+
+
+
+p{
+    color:blue;
+    font-size: 13px
+}
+.square-box {
+  width: 250px;        
+  height: 70px;        
+  background-color: grey; 
+  border: 1.5px solid black;}
+body.Background{
+  background-image: url(/blastoise-mega.avif);
+  background-size: cover;
+  border: 2px;
+}
+.table{
+  background-color: grey;
+  border: 1.5px solid black;
+}
+body.AK47{
+  background-image:url(/ak47.webp);
+}
+.box{
+  width: 252px;
+  background-color: grey;
+  border: 2px solid black;
+}
